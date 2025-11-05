@@ -165,5 +165,5 @@
   "global.notFound": "Non trouvé",
   "order.subscription": "Abonnement",
   "order.subscription.key.frequency": "Fréquence",
-  "product.quantity": "{qtd, plural, one {# U} other {# U}}"
+  "product.quantity": "{qtd, plural, one {# unité} other {# unités}}"
 }
